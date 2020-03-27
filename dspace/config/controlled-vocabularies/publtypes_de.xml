@@ -1,0 +1,59 @@
+<node label="Publikationstypen nach DINI-Vokabular">
+	<isComposedBy>
+		<node label="Prüfungsarbeiten">
+			<isComposedBy>
+				<node label="Studienarbeit [StudyThesis]"/>
+				<node label="Abschlussarbeit(Bachelor) [bachelorThesis]"/>
+				<node label="Abschlussarbeit(Master) [masterThesis]"/>
+				<node label="Dissertation oder Habilitation [doctoralThesis]"/>
+			</isComposedBy>
+		</node>
+		<node label="Zeitschriften/Schriftenreihen">
+			<isComposedBy>
+				<node label="Einzelbeitrag in einer wissenschaftlichen Zeitschrift [article]"/>
+				<node label="Beitrag zu einem Periodikum [contributionToPeriodical]"/>
+				<node label="Teil eines Periodikums [PeriodicalPart]"/>
+				<node label="Periodikum [Periodical]"/>
+			</isComposedBy>
+		</node>
+		<node label="Bücher">
+			<isComposedBy>
+				<node label="Buch [book]"/>
+				<node label="Teil eines Buches [bookPart]"/>
+			</isComposedBy>
+		</node>
+		<node label="Textartige Arbeiten">
+			<isComposedBy>
+				<node label="Preprint [preprint]"/>
+				<node label="Arbeitspapier [workingPaper]"/>
+				<node label="Handschrift [Manuscript]"/>
+				<node label="Vorlesung [lecture]"/>
+				<node label="Rezension [review]"/>
+				<node label="Entscheidungs- oder Urteilsanmerkung [annotation]"/>
+				<node label="Patent, Norm, Standard [patent]"/>
+				<node label="Verschiedenartige Texte [report]"/>
+				<node label="Noten (Musik) [MusicalNotation]"/>
+				<node label="Lehrmaterial [CourseMaterial]"/>
+				<node label="Konferenzveröffentlichung [conferenceObject]"/>
+			</isComposedBy>
+		</node>
+		<node label="Andere Medienarten">
+			<isComposedBy>
+				<node label="Ton [Sound]"/>
+				<node label="Bild [Image]"/>
+				<node label="Bewegte Bilder [MovingImage]"/>
+				<node label="Einzelbild [StillImage]"/>
+				<node label="Website [Website]"/>
+				<node label="Software [Software]"/>
+				<node label="Kartographisches Material [CarthographicMaterial]"/>
+				<node label="Forschungsdaten [ResearchData]"/>
+			</isComposedBy>
+		</node>
+		<node label="Verschiedenartige Ressourcen">
+			<isComposedBy>
+				<node label="Verschiedenartige Ressourcen, nicht textgeprägt [Other]"/>
+			</isComposedBy>
+		</node>
+	</isComposedBy>
+</node>
+

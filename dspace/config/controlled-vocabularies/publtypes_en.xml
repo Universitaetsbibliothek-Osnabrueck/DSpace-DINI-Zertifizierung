@@ -1,0 +1,45 @@
+<node label="DINI Publication Types"><isComposedBy>
+<node label="Theses"><isComposedBy>
+<node label="Study Thesis [StudyThesis]"/>
+<node label="Bachelor or comparable Thesis [bachelorThesis]"/>
+<node label="Master or comparable Thesis [masterThesis]"/>
+<node label="Doctoral or comparable Thesis [doctoralThesis]"/>
+</isComposedBy></node>
+<node label="Journals/Periodicals"><isComposedBy>
+<node label="Article in a scientific periodical [article]"/>
+<node label="Article in a non-scientific periodical [contributionToPeriodical]"/>
+<node label="single issue or volume of a periodical [PeriodicalPart]"/>
+<node label="Periodical [Periodical]"/>
+</isComposedBy></node>
+<node label="Books"><isComposedBy>
+<node label="Book [book]"/>
+<node label="Book Chapter [bookPart]"/>
+</isComposedBy></node>
+<node label="Textual works"><isComposedBy>
+<node label="Preprint [preprint]"/>
+<node label="Working Paper [workingPaper]"/>
+<node label="Digitized Manuscript [Manuscript]"/>
+<node label="Lecture [lecture]"/>
+<node label="Review [review]"/>
+<node label="Note to a legal judgement [annotation]"/>
+<node label="Patent [patent]"/>
+<node label="Miscellaneous monographic works [report]"/>
+<node label="Musical Notation [MusicalNotation]"/>
+<node label="Course Materials [CourseMaterial]"/>
+<node label="Conference Material [conferenceObject]"/>
+</isComposedBy></node>
+<node label="Other types of media"><isComposedBy>
+<node label="Sound Recording [Sound]"/>
+<node label="Image [Image]"/>
+<node label="Video Recording [MovingImage]"/>
+<node label="Still Image [StillImage]"/>
+<node label="Website [Website]"/>
+<node label="Software [Software]"/>
+<node label="Cartographic Material [CarthographicMaterial]"/>
+<node label="Research Data [ResearchData]"/>
+</isComposedBy></node>
+<node label="different ressources"><isComposedBy>
+<node label="different, non-textual ressources [Other]"/>
+</isComposedBy></node>
+</isComposedBy></node>
+

@@ -1,0 +1,145 @@
+<node id="ddc_en" label="ddc_en - ddc_en">
+	<isComposedBy>
+		<node id="000" label="000 - Generalities, Computer Science, Information Science">
+			<isComposedBy>
+				<node id="000+" label="000 - Generalities, science"/>
+				<node id="004" label="004 - Data processing, computer science"/>
+				<node id="010" label="010 - Bibliography"/>
+				<node id="020" label="020 - Library &amp; information science"/>
+				<node id="030" label="030 - General encyclopedic works"/>
+				<node id="050" label="050 - General serials &amp; their indexes"/>
+				<node id="060" label="060 - General organization &amp; museology"/>
+				<node id="070" label="070 - New media, journalism, publishing"/>
+				<node id="080" label="080 - General collections"/>
+				<node id="090" label="090 - Manuscripts &amp; rare books"/>
+			</isComposedBy>
+		</node>
+		<node id="100" label="100 - Philosophy and psychology">
+			<isComposedBy>
+				<node id="100+" label="100 - Philosophy"/>
+				<node id="130" label="130 - Paranormal phenomena"/>
+				<node id="150" label="150 - Psychology"/>
+			</isComposedBy>
+		</node>
+		<node id="200" label="200 - Religion">
+			<isComposedBy>
+				<node id="200+" label="200 - Religion"/>
+				<node id="220" label="220 - Bible"/>
+				<node id="230" label="230 - Christian theology"/>
+				<node id="290" label="290 - Other &amp; comparative religions"/>
+			</isComposedBy>
+		</node>
+		<node id="300" label="300 - Social sciences">
+			<isComposedBy>
+				<node id="300+" label="300 - Social sciences"/>
+				<node id="310" label="310 - General statistics"/>
+				<node id="320" label="320 - Political science"/>
+				<node id="330" label="330 - Economics"/>
+				<node id="333.7" label="333.7 - Natural resources, energy and environment"/>
+				<node id="340" label="340 - Law"/>
+				<node id="350" label="350 - Public administration"/>
+				<node id="355" label="355 - Military science"/>
+				<node id="360" label="360 - Social services, association"/>
+				<node id="370" label="370 - Education"/>
+				<node id="380" label="380 - Commerce, communications, transport"/>
+				<node id="390" label="390 - Customs, etiquette, folklore"/>
+			</isComposedBy>
+		</node>
+		<node id="400" label="400 - Language">
+			<isComposedBy>
+				<node id="400+" label="400 - Language, linguistics"/>
+				<node id="420" label="420 - English"/>
+				<node id="430" label="430 - Germanic"/>
+				<node id="439" label="439 - Other Germanic languages"/>
+				<node id="440" label="440 - Romance languages, French"/>
+				<node id="450" label="450 - Italian, Romanian, Rhaeto-Romantic"/>
+				<node id="460" label="460 - Spanish &amp; Portuguese languages"/>
+				<node id="470" label="470 - Italic Latin"/>
+				<node id="480" label="480 - Hellenic languages, Classical Greek"/>
+				<node id="490" label="490 - Other languages"/>
+				<node id="491.8" label="491.8 - Slavic languages"/>
+			</isComposedBy>
+		</node>
+		<node id="500" label="500 - Natural sciences and mathematics">
+			<isComposedBy>
+				<node id="500+" label="500 - Natural sciences &amp; mathematics"/>
+				<node id="510" label="510 - Mathematics"/>
+				<node id="520" label="520 - Astronomy &amp; allied sciences"/>
+				<node id="530" label="530 - Physics"/>
+				<node id="540" label="540 - Chemistry &amp; allied sciences"/>
+				<node id="550" label="550 - Earth sciences"/>
+				<node id="560" label="560 - Paleontology, paleozoology"/>
+				<node id="570" label="570 - Life sciences"/>
+				<node id="580" label="580 - Botanical sciences"/>
+				<node id="590" label="590 - Zoological sciences"/>
+			</isComposedBy>
+		</node>
+		<node id="600" label="600 - Technology, medicine, applied sciences">
+			<isComposedBy>
+				<node id="600+" label="600 - Technology (Applied sciences)"/>
+				<node id="610" label="610 - Medical sciences, medicine"/>
+				<node id="620" label="620 - Engineering &amp; allied operations"/>
+				<node id="621.3" label="621.3 - Electric engineering"/>
+				<node id="624" label="624 - Civil engineering"/>
+				<node id="630" label="630 - Agriculture"/>
+				<node id="640" label="640 - Home economics &amp; family living"/>
+				<node id="650" label="650 - Management &amp; auxiliary services"/>
+				<node id="660" label="660 - Chemical engineering"/>
+				<node id="670" label="670 - Manufacturing"/>
+				<node id="690" label="690 - Buildings"/>
+			</isComposedBy>
+		</node>
+		<node id="700" label="700 - Art and Entertainment">
+			<isComposedBy>
+				<node id="700+" label="700 - The arts"/>
+				<node id="710" label="710 - Civic &amp; landscape art"/>
+				<node id="720" label="720 - Architecture"/>
+				<node id="730" label="730 - Plastic arts, sculpture"/>
+				<node id="740" label="740 - Drawing &amp; decorative arts"/>
+				<node id="741.5" label="741.5 - Comics, cartoons"/>
+				<node id="750" label="750 - Painting &amp; paintings"/>
+				<node id="760" label="760 - Graphic arts, printmaking &amp; prints"/>
+				<node id="770" label="770 - Photography &amp; photographs"/>
+				<node id="780" label="780 - Music"/>
+				<node id="790" label="790 - Recreational &amp; performing arts"/>
+				<node id="791" label="791 - Public performances"/>
+				<node id="792" label="792 - Stage performances"/>
+				<node id="793" label="793 - Indoor games &amp; amusements"/>
+				<node id="796" label="796 - Athletic &amp; outdoor sports &amp; games"/>
+			</isComposedBy>
+		</node>
+		<node id="800" label="800 - Literature">
+			<isComposedBy>
+				<node id="800+" label="800 - Literature &amp; rhetoric"/>
+				<node id="810" label="810 - American literature in English"/>
+				<node id="820" label="820 - English &amp; Old English literatures"/>
+				<node id="830" label="830 - Literatures of Germanic languages"/>
+				<node id="839" label="839 - Other Germanic literatures"/>
+				<node id="840" label="840 - Literatures of Romance languages"/>
+				<node id="850" label="850 - Italian, Romanian, Rhaeto-Romanic literatures"/>
+				<node id="860" label="860 - Spanish &amp; Portuguese literatures"/>
+				<node id="870" label="870 - Italic literatures, Latin"/>
+				<node id="880" label="880 - Hellenic literatures, Classical Greek"/>
+				<node id="890" label="890 - Literatures of other languages"/>
+				<node id="891.8" label="891.8 - Slavic literatures"/>
+			</isComposedBy>
+		</node>
+		<node id="900" label="900 - History and geography">
+			<isComposedBy>
+				<node id="900+" label="900 - Geography &amp; history"/>
+				<node id="910" label="910 - Geography &amp; travel"/>
+				<node id="914.3" label="914.3 - Geography &amp; travel: Germany"/>
+				<node id="920" label="920 - Biography, genealogy, insignia"/>
+				<node id="930" label="930 - History of the ancient world"/>
+				<node id="940" label="940 - General history of Europe"/>
+				<node id="943" label="943 - General history of Europe: Central Europe, Germany"/>
+				<node id="950" label="950 - General history of Asia; Far East"/>
+				<node id="960" label="960 - General history of Africa"/>
+				<node id="970" label="970 - General history of North America"/>
+				<node id="980" label="980 - General history of South America"/>
+				<node id="990" label="990 - General history of other areas"/>
+			</isComposedBy>
+		</node>
+		
+	</isComposedBy>
+</node>
