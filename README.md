@@ -1,5 +1,4 @@
-# UB-Osnabrueck
-DSpace DINI-zertifierbar machen
+# DSpace DINI-zertifierbar machen
 
 Dies Repository enthält Codebeispiele zum Vortrag von Philip Münch beim DSpace-Anwendertreffen 2020.
 
